@@ -18,6 +18,6 @@ With:
 
 I find myself setting up the tooling way to often. This is the starter to save those 15 Minutes for every new project or demo.
 
-Usage: `npx create-next-app@latest --example https://github.com/ccssmnn/next-starter`
+Usage: `npx create-next-app@latest --use-npm --example https://github.com/ccssmnn/next-starter`
 
 Have fun!
